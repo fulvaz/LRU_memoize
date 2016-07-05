@@ -9,4 +9,3 @@ How it work
 3. When cache is full, delete the last element in the Linklist and the object
 
 
-
